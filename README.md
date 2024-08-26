@@ -1,7 +1,7 @@
 # Component-Level-OBI-Retrieval
 Source code and dataset for ICMR'24 paper "[Component-Level Oracle Bone Inscription Retrieval](https://dl.acm.org/doi/abs/10.1145/3652583.3658116)"
 
-## Datasets
+## Dataset
 
 
 ## Citation
