@@ -37,3 +37,6 @@ Considering copyright issues, if you need to use this dataset, please provide th
   year={2024}
 }
 ```
+
+## Acknowledgments
+We would like to thank [小學堂](https://xiaoxue.iis.sinica.edu.tw/) for sharing the public OBI data. We are also grateful to [Mr. Changxing Li](https://github.com/li1changxing) for his assistance with the code implementation.
