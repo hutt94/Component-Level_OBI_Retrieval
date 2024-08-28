@@ -10,16 +10,16 @@ Then, we collected 11,335 OBI character images from the [小學堂](https://xiao
 
 | Component| # Character | # Component | Component| # Character | # Component |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| 日 | 371 | 18 | 女 | 84 | 641
-| 月 | 106 | 41 | 子 | 86 | 179
-| 雨 | 152 | 17 | 目 | 92 | 422
-| 阜 | 115 | 16 | 攴 | 110 | 414
-| 水 | 622 | 41 | 止 | 112 | 1132
-| 屮 | 267 | 14 | 衣 | 117 | 69
-| 木 | 465 | 24 | 口 | 157 | 1592
-| 犬 | 204 | 117 | 王 | 191 | 55
-| 大 | 385 | 32 | 矢 | 198 | 383
-| 人 | 1403 | 226 | 刀 | 201 | 268
+| 日 | 371 | 18 | 女 | 641 | 29
+| 月 | 106 | 41 | 子 | 179 | 33
+| 雨 | 152 | 17 | 目 | 422 | 31
+| 阜 | 115 | 16 | 攴 | 414 | 91
+| 水 | 622 | 41 | 止 | 1132 | 72
+| 屮 | 267 | 14 | 衣 | 69 | 51
+| 木 | 465 | 24 | 口 | 1592 | 42
+| 犬 | 204 | 117 | 王 | 55 | 8
+| 大 | 385 | 32 | 矢 | 383 |32
+| 人 | 1403 | 226 | 刀 | 268 | 77
 
 Considering copyright issues, if you need to use this dataset, please provide the following information (either in Chinese or English) in an email to cszkhu@comp.hkbu.edu.hk, and we will provide you with the dataset download link within 5 working days after receiving your email: 
 1. your name,
