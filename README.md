@@ -22,12 +22,10 @@ Then, we collected 11,335 OBI character images from the [小學堂](https://xiao
 | 人 | 1403 | 226 | 刀 | 201 | 268
 
 Considering copyright issues, if you need to use this dataset, please provide the following information (either in Chinese or English) in an email to cszkhu@comp.hkbu.edu.hk, and we will provide you with the dataset download link within 5 working days after receiving your email: 
-<ol>
-  <li>your name</li>
-  <li>your institution</li>
-  <li>the intended use of the dataset</li>
-  <li>and a declaration ensuring that it will not be used for commercial profit</li>
-</ol>
+1. your name,
+2. your institution,
+3. the intended use of the dataset,
+4. and a declaration ensuring that it will not be used for commercial profit.
 
 ## Citation
 ```
