@@ -34,23 +34,23 @@ Considering copyright issues, if you need to use this dataset, please provide th
 ## Code
 Train the model:
 ```
-python train.py --componet_path components_file_name
-                --character_path characters_file_name
-                --epoch 80
-                --batch_size=32
+python train.py --componet_path components_file_name /
+                --character_path characters_file_name /
+                --epoch 80 /
+                --batch_size=32 /
                 --num_class=20
 ```
 
 Test the model:
 ```
-python test.py --componet_path components_file_name
+python test.py --componet_path components_file_name /
                --character_path characters_file_name
 ```
 
 Visualize the retrieval results:
 ```
-python visual.py --componet_path components_file_name
-                 --character_path characters_file_name
+python visual.py --componet_path components_file_name /
+                 --character_path characters_file_name /
                  --k=10
 ```
 
