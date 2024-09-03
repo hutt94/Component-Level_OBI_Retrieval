@@ -31,16 +31,27 @@ Considering copyright issues, if you need to use this dataset, please provide th
 3. the intended use of the dataset,
 4. and a declaration ensuring that it will not be used for commercial profit.
 
-## Train and Test
+## Code
+Train the model:
 ```
-# Train
-python train.py --componet_path components_file_name --character_path characters_file_name --epoch 80 --batch_size=32 --num_class=20
+python train.py --componet_path components_file_name
+                --character_path characters_file_name
+                --epoch 80
+                --batch_size=32
+                --num_class=20
+```
 
-# Test
-python test.py --componet_path components_file_name --character_path characters_file_name
+Test the model:
+```
+python test.py --componet_path components_file_name
+               --character_path characters_file_name
+```
 
-# Visualization
-python visual.py --componet_path components_file_name --character_path characters_file_name --k=10
+Visualize the retrieval results:
+```
+python visual.py --componet_path components_file_name
+                 --character_path characters_file_name
+                 --k=10
 ```
 
 ## Citation
