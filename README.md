@@ -2,7 +2,7 @@
 Source code and dataset for ICMR'24 paper "[Component-Level Oracle Bone Inscription Retrieval](https://dl.acm.org/doi/abs/10.1145/3652583.3658116)" (Best Paper Candidate)
 
 ## To Do List
-1. -[ ] code
+1. -[x] code
 2. -[x] dataset
 
 ## Dataset
@@ -30,6 +30,18 @@ Considering copyright issues, if you need to use this dataset, please provide th
 2. your institution,
 3. the intended use of the dataset,
 4. and a declaration ensuring that it will not be used for commercial profit.
+
+## Train and Test
+```
+# Train
+python train.py --componet_path components_file_name --character_path characters_file_name --epoch 80 --batch_size=32 --num_class=20
+
+# Test
+python test.py --componet_path components_file_name --character_path characters_file_name
+
+# Visualization
+python visual.py --componet_path components_file_name --character_path characters_file_name --k=10
+```
 
 ## Citation
 ```
