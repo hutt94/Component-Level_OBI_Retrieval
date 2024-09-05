@@ -1,8 +1,8 @@
 # Dataset
 ## Data Naming Rules
-All data containing the same component are placed in the same folder. For example, folder 0 contains all data with the component "sun".
-Within each folder, files ending with "_a" indicate annotated components, while the rest are OBI characters.
-The naming convention for OBI character data is:
+1. All data containing the same component are placed in the same folder. For example, folder 0 contains all data with the component "sun".
+2. Within each folder, files ending with "_a" indicate annotated components, while the rest are OBI characters.
+3. The naming convention for OBI character data is:
 ```
 #A_#Bno#C.png
 ```
