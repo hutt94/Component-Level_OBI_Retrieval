@@ -15,7 +15,7 @@ The data provided by [小學堂](https://xiaoxue.iis.sinica.edu.tw/) is in PNG f
 ```
 % Reading character data:
 [a,~,c]=imread('1_43no1.png');
-subplot(121);imshow(a); % A is a 401*413*3 matrix filled with zeros.
+subplot(121);imshow(a); % A is an all-zero 401*413*3 matrix.
 subplot(122);imshow(c); % C is a 401*413 matrix representing transparency.
 ```
 ![4bc36e98e550d920a75e8800d27147f](https://github.com/user-attachments/assets/c0e21bcb-8f2e-445e-a2be-7d8c7f9002ac)
