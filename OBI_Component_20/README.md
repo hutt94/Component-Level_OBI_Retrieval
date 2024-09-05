@@ -18,7 +18,7 @@ The data provided by Xiaoxue Tang is in PNG format. To facilitate your use of th
 subplot(121);imshow(a); % A is a 401*413*3 matrix filled with zeros.
 subplot(122);imshow(c); % C is a 401*413 matrix representing transparency.
 ```
-![Uploading 1.jpg…]()
+![f647f84134041771bd2d7f35f999ad1](https://github.com/user-attachments/assets/3993681d-5449-4954-a8d3-6befb0fb213a)
 
 ```
 % Reading component data:
@@ -26,7 +26,7 @@ subplot(122);imshow(c); % C is a 401*413 matrix representing transparency.
 subplot(121);imshow(a); % A contains the component marked in red.
 subplot(122);imshow(c); % C is a 401*413 matrix representing transparency.
 ```
-![Uploading 2.jpg…]()
+![48dd549405baabf373f930554fdc78a](https://github.com/user-attachments/assets/31ea15dd-e6f5-4db8-9739-f3c5f4f417e1)
 
 You can also refer to the [preprocess](https://github.com/hutt94/Component-Level_OBI_Retrieval/blob/main/datasets.py) function in this code to handle the data.
 
