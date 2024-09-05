@@ -7,11 +7,11 @@
 #A_#Bno#C.png
 ```
 - #A is a number starting from 1, used to count the number of characters downloaded from Xiaoxue Tang. After expert screening, some data were removed, so it is not always continuous.
-- #B is the ID of the character in Xiaoxue Tang.
+- #B is the ID of the character in [小學堂](https://xiaoxue.iis.sinica.edu.tw/).
 - #C represents the #C-th form of the character, as the same character can have different forms.
 
 ## Data Format
-The data provided by Xiaoxue Tang is in PNG format. To facilitate your use of the data, we use MATLAB as an example to demonstrate the data format.
+The data provided by [小學堂](https://xiaoxue.iis.sinica.edu.tw/) is in PNG format. To facilitate your use of the data, we use MATLAB as an example to demonstrate the data format.
 ```
 % Reading character data:
 [a,~,c]=imread('1_43no1.png');
