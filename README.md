@@ -25,6 +25,8 @@ Then, we collected 11,335 OBI character images from the [小學堂](https://xiao
 | 8 | 大 | 385 | 32 | 18 | 矢 | 383 |32
 | 9 | 人 | 1403 | 226 | 19 | 刀 | 268 | 77
 
+For more details about the dataset, please refer to [here](https://github.com/hutt94/Component-Level_OBI_Retrieval/tree/main/OBI_Component_20).
+
 Considering copyright issues, if you need to use this dataset, please provide the following information (either in Chinese or English) in an email to cszkhu@comp.hkbu.edu.hk, and we will provide you with the dataset download link within 5 working days after receiving your email: 
 1. your name,
 2. your institution,
