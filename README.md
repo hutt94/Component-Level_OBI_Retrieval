@@ -2,8 +2,11 @@
 Source code and dataset for ICMR'24 paper "[Component-Level Oracle Bone Inscription Retrieval](https://dl.acm.org/doi/abs/10.1145/3652583.3658116)" (Best Paper Candidate)
 
 ## To Do List
-1. -[x] code
-2. -[x] dataset
+1. -[] Task Definition
+2. -[x] code
+3. -[x] dataset
+4. -[] Methods
+5. -[] Results and Analysis
 
 ## Dataset
 In **OBI Component 20**, we have selected 20 common OBI components. Due to the different forms each component can take, we chose representative forms to display in the following diagram. 
