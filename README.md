@@ -1,15 +1,15 @@
 # Component-Level OBI Retrieval
 Source code and dataset for ICMR'24 paper "[Component-Level Oracle Bone Inscription Retrieval](https://dl.acm.org/doi/abs/10.1145/3652583.3658116)" (Best Paper Candidate)
 
-## To Do List
+## 0. To Do List
 1. -[ ] Task Definition
 2. -[x] dataset
 3. -[x] code
 
-## Task Definition
+## 1. Task Definition
 
-## Dataset
-### Introduction
+## 2. Dataset
+### 2.1. Introduction
 In **OBI Component 20**, we have selected 20 common OBI components. Due to the different forms each component can take, we chose representative forms to display in the following diagram. 
 
 ![image](https://github.com/user-attachments/assets/82687c53-2ead-4eb0-ab37-a13e110ccd04)
@@ -31,14 +31,14 @@ Then, we collected 11,335 OBI character images from the [小學堂](https://xiao
 
 For more details about the dataset, please refer to [here](https://github.com/hutt94/Component-Level_OBI_Retrieval/tree/main/OBI_Component_20).
 
-### Request for Dataset
+### 2.2. Request for Dataset
 Considering copyright issues, if you need to use this dataset, please provide the following information (either in Chinese or English) in an email to cszkhu@comp.hkbu.edu.hk, and we will provide you with the dataset download link within 5 working days after receiving your email (**It should be a valid .edu email that matches your institution**): 
 1. your name,
 2. your institution,
 3. the intended use of the dataset,
 4. and a declaration ensuring that it will not be used for commercial profit.
 
-## Code
+## 3. Code
 Train the model:
 ```
 python train.py --componet_path components_file_name /
@@ -61,7 +61,7 @@ python visual.py --componet_path components_file_name /
                  --k=10
 ```
 
-## Citation
+## 4. Citation
 ```
 @inproceedings{hu2024component,
   title={Component-Level Oracle Bone Inscription Retrieval},
