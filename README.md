@@ -9,6 +9,7 @@ Source code and dataset for ICMR'24 paper "[Component-Level Oracle Bone Inscript
 ## Task Definition
 
 ## Dataset
+### Introduction
 In **OBI Component 20**, we have selected 20 common OBI components. Due to the different forms each component can take, we chose representative forms to display in the following diagram. 
 
 ![image](https://github.com/user-attachments/assets/82687c53-2ead-4eb0-ab37-a13e110ccd04)
@@ -30,6 +31,7 @@ Then, we collected 11,335 OBI character images from the [小學堂](https://xiao
 
 For more details about the dataset, please refer to [here](https://github.com/hutt94/Component-Level_OBI_Retrieval/tree/main/OBI_Component_20).
 
+### Request for Dataset
 Considering copyright issues, if you need to use this dataset, please provide the following information (either in Chinese or English) in an email to cszkhu@comp.hkbu.edu.hk, and we will provide you with the dataset download link within 5 working days after receiving your email (**It should be a valid .edu email that matches your institution**): 
 1. your name,
 2. your institution,
