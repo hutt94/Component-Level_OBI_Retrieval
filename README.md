@@ -35,8 +35,8 @@ For more details about the dataset, please refer to [here](https://github.com/hu
 Considering copyright issues, if you need to use this dataset, please provide the following information (either in Chinese or English) in an email to cszkhu@comp.hkbu.edu.hk, and we will provide you with the dataset download link within 5 working days after receiving your email (**It should be a valid .edu email that matches your institution**): 
 1. your name,
 2. your institution,
-3. the intended use of the dataset,
-4. and a declaration ensuring that it will not be used for commercial profit.
+3. the intended use of the dataset, and
+4. a declaration ensuring that it will not be used for commercial profit.
 
 ## 3. Code
 Train the model:
